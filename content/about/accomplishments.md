@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization 
+    title: Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization 
     url: ''
   - certificate_url: https://www.coursera.org
     date_end: '2023-02-01'
