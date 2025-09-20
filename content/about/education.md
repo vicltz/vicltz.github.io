@@ -35,7 +35,7 @@ experience:
   - title: MEng Control & Robotics Engineering
     company: Telecom Physique Strasbourg
     company_url: 'https://www.telecom-physique.fr/en/school/about-us/'
-    company_logo: tps.png
+    company_logo: 
     location: Strasbourg
     date_start: '2021-09-01'
     date_end: '2024-09-01'
