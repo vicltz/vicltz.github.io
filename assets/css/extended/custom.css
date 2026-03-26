@@ -1,0 +1,27 @@
+/* Image gallery layouts */
+.img-row {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 1.5rem 0;
+}
+
+.img-gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+}
+
+.img-gallery .img-row {
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .img-row {
+    flex-direction: column;
+    align-items: center;
+  }
+}
