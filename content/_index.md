@@ -34,7 +34,7 @@ Victor Lutz, Ludovic De Matteïs, Virgile Batto, Nicolas Mansard
 
 A complete framework for controlling humanoid robots with closed-kinematic actuators (parallel knee and ankle mechanisms). Introduces a compact differential analytical model enabling efficient trajectory optimization and RL deployment with impedance transfer directly on hardware.
 
-<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-end; margin: 1rem 0;">
+<div class="img-row">
   <img src="/pics/bipettosim.gif" alt="Bipetto simulation" style="height: 180px; width: auto; border-radius: 6px;" />
   <img src="/pics/bipetto.gif" alt="Bipetto real robot" style="height: 180px; width: auto; border-radius: 6px;" />
 </div>
